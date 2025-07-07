@@ -10,3 +10,4 @@ This repository contains the publicly available documents for MuDForM (Multi-Dom
 - Layman talk Robert Deckers.pptx. Presentation for laymen about the thesis of Robert Deckers, given at his PhD ceremony.
 - PhD_Thesis_The_Smallest_Software_Particle_final_version: the thesis as published.
 - Thesis cover.
+- A podcast on the engineering of MuDForM; the main principles and how it is made cognition-based (generated with Notebook LM).
